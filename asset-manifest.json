@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/Delhi-Toofans/static/css/main.81257cdd.css",
+    "main.js": "/Delhi-Toofans/static/js/main.7761e44f.js",
+    "static/js/453.612d9b82.chunk.js": "/Delhi-Toofans/static/js/453.612d9b82.chunk.js",
+    "static/media/Banner-1.jpg": "/Delhi-Toofans/static/media/Banner-1.7745504b34c2721f7e69.jpg",
+    "static/media/banner.jpg": "/Delhi-Toofans/static/media/banner.187441f79b2f92337801.jpg",
+    "static/media/About-us-Banner.jpg": "/Delhi-Toofans/static/media/About-us-Banner.bb2e1090c37786f0f34e.jpg",
+    "static/media/About.jpg": "/Delhi-Toofans/static/media/About.c356114984aa30afa017.jpg",
+    "static/media/NewsUpdate.jpg": "/Delhi-Toofans/static/media/NewsUpdate.352cb329f16a12e830e8.jpg",
+    "static/media/Delhi-Toofan.jpg": "/Delhi-Toofans/static/media/Delhi-Toofan.a0b738e234a4b2fdaad1.jpg",
+    "static/media/Gallery2.jpg": "/Delhi-Toofans/static/media/Gallery2.cffee9e193953890aa29.jpg",
+    "static/media/Gallery6.jpg": "/Delhi-Toofans/static/media/Gallery6.de81603a4566980f3d5a.jpg",
+    "static/media/Gallery4.jpg": "/Delhi-Toofans/static/media/Gallery4.82b27370b015caee103a.jpg",
+    "static/media/Gallery5.jpg": "/Delhi-Toofans/static/media/Gallery5.fb6bec427b21453c28ca.jpg",
+    "static/media/Gallery3.jpg": "/Delhi-Toofans/static/media/Gallery3.d9d37474da994dfc1b37.jpg",
+    "static/media/Gallery1.jpg": "/Delhi-Toofans/static/media/Gallery1.1b00cc437bf547920ce3.jpg",
+    "static/media/News1.jpg": "/Delhi-Toofans/static/media/News1.2873d8ec2ac076bb45b7.jpg",
+    "static/media/Delhi.webp": "/Delhi-Toofans/static/media/Delhi.ac223f0a654157c2851d.webp",
+    "static/media/Kolkata.webp": "/Delhi-Toofans/static/media/Kolkata.189a0688704728ea5dc1.webp",
+    "static/media/Mumbai.webp": "/Delhi-Toofans/static/media/Mumbai.01995f37e327876d8bcb.webp",
+    "static/media/Ahmedabad.webp": "/Delhi-Toofans/static/media/Ahmedabad.36ab9fce1426e2272f58.webp",
+    "static/media/Chennai.webp": "/Delhi-Toofans/static/media/Chennai.671a0f744fce3433e339.webp",
+    "static/media/Bengaluru.webp": "/Delhi-Toofans/static/media/Bengaluru.71affd25bd2129f465d0.webp",
+    "static/media/exicom logo.png": "/Delhi-Toofans/static/media/exicom logo.0c0fbdeae23cbd7c311e.png",
+    "static/media/Gaana logo.png": "/Delhi-Toofans/static/media/Gaana logo.dfbd34033c3df68bf6cd.png",
+    "index.html": "/Delhi-Toofans/index.html",
+    "main.81257cdd.css.map": "/Delhi-Toofans/static/css/main.81257cdd.css.map",
+    "main.7761e44f.js.map": "/Delhi-Toofans/static/js/main.7761e44f.js.map",
+    "453.612d9b82.chunk.js.map": "/Delhi-Toofans/static/js/453.612d9b82.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.81257cdd.css",
+    "static/js/main.7761e44f.js"
+  ]
+}
